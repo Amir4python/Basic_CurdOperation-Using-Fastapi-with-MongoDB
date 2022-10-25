@@ -1,0 +1,8 @@
+WHAT YOU NEED?
+1) Python above 3.8 
+2) VISUAL STUDIO CODE OR PyCharm
+3) MongoDB Compass
+4)  python-fastapi> pip install pymongo fastapi uvicorn
+5)C:\Users\CODERX\Desktop\python-fastapi> pip install --user uvicorn
+
+6C:\Users\CODERX\Desktop\python-fastapi\fastapi-mongodb-curd> python -m  uvicorn main:app --reload
